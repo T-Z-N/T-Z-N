@@ -6,7 +6,7 @@ I'm a passionate and curious learner who loves to explore various topics related
 I enjoy creating projects that combine these interests and share them with others. If you want to know more about me or my projects, feel free to check out my repositories or contact me via email or social media.
 
    <p align="left">
-      <a href="[https://www.youtube.com/@tznalcn](https://www.youtube.com/@tznalcn)">
+      <a href="https://www.youtube.com/@tznalcn">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnIbChRDJ4LzxktPwDtdvXA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@tznalcn">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnIbChRDJ4LzxktPwDtdvXA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
