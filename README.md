@@ -1,6 +1,6 @@
 #  Alican Tuezuen
 
-**`Yep (E-Teaching/Robotics/Philosophy)`**
+**`Yep (Education/Automation/Philosophy)`**
 
 I'm a passionate and curious learner who loves to explore various topics related to robotics, philosophy, music production, cybernetics and education.
 I enjoy creating projects that combine these interests and share them with others. If you want to know more about me or my projects, feel free to check out my repositories or contact me via email or social media.
