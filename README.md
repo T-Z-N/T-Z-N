@@ -36,8 +36,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Z-N&show_icons=true&theme=swift)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
 
-[youtube]: [https://youtube.com/fknight](https://www.youtube.com/@tznalcn)
+[youtube]: [https://youtube.com/@tznalcn](https://www.youtube.com/@tznalcn)
