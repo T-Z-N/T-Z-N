@@ -1,4 +1,4 @@
-#  Alican Tuezuen
+#  Alican Tüzün
 
 **`(Education/Robitcs/Automation/Philosophy)`**
 
