@@ -1,8 +1,8 @@
 #  Alican Tüzün
 
-**`(Education/Robotics/Automation/Philosophy/Business Model Innovation)`**
+**`(Philosophy/Education/AI/Cybernetics/Robotics//BusinessEcosystems/BusinessModels)`**
 
-I'm a passionate and curious learner who loves to explore various topics related to robotics, philosophy, music production, cybernetics and education.
+I'm a passionate and curious learner who loves to explore various topics related to AI, philosophy, music production, cybernetics and education.
 I enjoy creating projects that combine these interests and share them with others. If you want to know more about me or my projects, feel free to check out my repositories or contact me via email or social media.
 
    <p align="left">
